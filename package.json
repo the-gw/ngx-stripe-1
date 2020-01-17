@@ -75,5 +75,9 @@
     "tslib": "^1.9.0",
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
-  }
+  },
+  "main": "dist/ngx-stripe/ngx-stripe.d.ts",
+  "files": [
+    "dist/ngx-stripe"
+  ]
 }
