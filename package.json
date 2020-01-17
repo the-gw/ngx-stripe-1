@@ -76,7 +76,7 @@
     "tslint": "~5.11.0",
     "typescript": "~3.2.2"
   },
-  "main": "dist/ngx-stripe/ngx-stripe.d.ts",
+  "main": "dist/ngx-stripe/fesm5/ngx-stripe.js",
   "files": [
     "dist/ngx-stripe"
   ]
