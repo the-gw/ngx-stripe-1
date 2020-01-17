@@ -19,7 +19,8 @@ export interface ElementsOptions {
     | 'no'
     | 'nl'
     | 'sv'
-    | 'zh';
+    | 'zh'
+    | 'pl';
 }
 
 export type FontElement = FontCSSElement | FontConfigElement;
